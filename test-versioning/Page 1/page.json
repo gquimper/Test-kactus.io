@@ -39,6 +39,14 @@
     {
       "class": "text",
       "id": "5642A616-274E-499C-839E-8F0D21980461"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "286F40DA-9E7A-4049-80EE-AD8DCF357E67"
+    },
+    {
+      "class": "text",
+      "id": "013DA437-D9AF-4521-925A-36ECF9807944"
     }
   ],
   "name": "Page 1",
